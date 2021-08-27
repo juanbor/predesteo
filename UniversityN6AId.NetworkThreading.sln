@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.809.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threads\Threading.csproj", "{7B586343-7C02-4975-9AD0-14A05514AAEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threads\Threading.csproj", "{1E83FF5B-E411-4D9B-A249-218274298C7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7B586343-7C02-4975-9AD0-14A05514AAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B586343-7C02-4975-9AD0-14A05514AAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B586343-7C02-4975-9AD0-14A05514AAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B586343-7C02-4975-9AD0-14A05514AAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E83FF5B-E411-4D9B-A249-218274298C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E83FF5B-E411-4D9B-A249-218274298C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E83FF5B-E411-4D9B-A249-218274298C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E83FF5B-E411-4D9B-A249-218274298C7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

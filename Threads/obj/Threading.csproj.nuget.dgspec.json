@@ -14,7 +14,7 @@
         "outputPath": "/Users/juan/Projects/UniversityN6AId.NetworkFraming/Threads/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/juan/.nuget/NuGet/NuGet.Config"
+          "/Users/juan/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
