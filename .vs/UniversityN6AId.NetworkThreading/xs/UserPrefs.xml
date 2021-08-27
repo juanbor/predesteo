@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{7B586343-7C02-4975-9AD0-14A05514AAEE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Threading PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Threads/Clase26-8.cs">
+    <Files>
+      <File FileName="Threads/Program.cs" Line="12" Column="29" />
+      <File FileName="Threads/Clase26-8.cs" Line="8" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UniversityN6AId.NetworkThreading" expanded="True" selected="True">
+            <Node name="Threading" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="UniversityN6AId.NetworkThreading" expanded="True" selected="True">
+            <Node name="Threading" expanded="True">
+              <Node name="Threading" expanded="True">
+                <Node name="Threading.Program" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
