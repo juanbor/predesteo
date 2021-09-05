@@ -1,0 +1,13 @@
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/bin/Debug/netcoreapp3.1/Sockets.Server.deps.json
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/bin/Debug/netcoreapp3.1/Sockets.Server.runtimeconfig.json
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/bin/Debug/netcoreapp3.1/Sockets.Server.runtimeconfig.dev.json
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/bin/Debug/netcoreapp3.1/Sockets.Server.dll
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/bin/Debug/netcoreapp3.1/Sockets.Server.pdb
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/obj/Debug/netcoreapp3.1/Sockets.Server.csproj.AssemblyReference.cache
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/obj/Debug/netcoreapp3.1/Sockets.Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/obj/Debug/netcoreapp3.1/Sockets.Server.AssemblyInfoInputs.cache
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/obj/Debug/netcoreapp3.1/Sockets.Server.AssemblyInfo.cs
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/obj/Debug/netcoreapp3.1/Sockets.Server.csproj.CoreCompileInputs.cache
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/obj/Debug/netcoreapp3.1/Sockets.Server.dll
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/obj/Debug/netcoreapp3.1/Sockets.Server.pdb
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Server/obj/Debug/netcoreapp3.1/Sockets.Server.genruntimeconfig.cache

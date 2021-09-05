@@ -1,0 +1,13 @@
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/bin/Release/netcoreapp3.1/Sockets.Client.deps.json
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/bin/Release/netcoreapp3.1/Sockets.Client.runtimeconfig.json
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/bin/Release/netcoreapp3.1/Sockets.Client.runtimeconfig.dev.json
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/bin/Release/netcoreapp3.1/Sockets.Client.dll
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/bin/Release/netcoreapp3.1/Sockets.Client.pdb
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/obj/Release/netcoreapp3.1/Sockets.Client.csproj.AssemblyReference.cache
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/obj/Release/netcoreapp3.1/Sockets.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/obj/Release/netcoreapp3.1/Sockets.Client.AssemblyInfoInputs.cache
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/obj/Release/netcoreapp3.1/Sockets.Client.AssemblyInfo.cs
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/obj/Release/netcoreapp3.1/Sockets.Client.csproj.CoreCompileInputs.cache
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/obj/Release/netcoreapp3.1/Sockets.Client.dll
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/obj/Release/netcoreapp3.1/Sockets.Client.pdb
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/obj/Release/netcoreapp3.1/Sockets.Client.genruntimeconfig.cache

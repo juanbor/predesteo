@@ -1,0 +1,4 @@
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/bin/Release/netcoreapp3.1/publish/Sockets.Client.dll
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/bin/Release/netcoreapp3.1/publish/Sockets.Client.deps.json
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/bin/Release/netcoreapp3.1/publish/Sockets.Client.runtimeconfig.json
+/Users/juan/Projects/UniversityN6AId.NetworkFraming/Sockets.Client/bin/Release/netcoreapp3.1/publish/Sockets.Client.pdb
